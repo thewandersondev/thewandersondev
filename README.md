@@ -28,7 +28,7 @@ Tenho conhecimento em **HTML e CSS** e estou me aprofundando em **JavaScript** p
 
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/wândersoncarlos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wândersoncarlos)  
 
 ---
 
